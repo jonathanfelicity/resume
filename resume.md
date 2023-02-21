@@ -30,32 +30,32 @@ and change @REDACTED to be true
 
 ## Technical Skills
 
-**Front End** | React, NextJS, Javascript, TypeScript, NodeJS, CSS
+**Front End** | React, React-Native, Javascript, TypeScript, CSS
 
-**Back End** | Golang, Java, C, C++, PostgreSQL, MongoDB, MySQL
+**Back End** | C, C++, Go, NodeJS, PostgreSQL, MongoDB, MySQL
 
 **Testing/Deployment** | Jest, Mocha, Chai, AWS:EC2, AWS:ECS, Terraform, JUnit
 
-**Developer Tools** | Docker, Git, npm, Webpack, Babel, Agile Methodology, TDD
+**Developer Tools** | Docker, Git, Agile Methodology, TDD
 
 <div className="vertical-spacer"></div>
 
 ## Experience
 
-### Software Engineer | Plateau State Internal Revenue Service <span class="spacer"></span>Jan 2022 - Present
+### Software Engineer | Plateau State Information Technology Development Agency (PICTDA) <span class="spacer"></span>Jan 2022 - Present
 
 *Backend redesign for reviews module of legacy e-commerce microservice*<span class="spacer"></span>PHP | TypeScript | Angular | PostgreSQL | EC2
 
-- Optimized existing monolithic back-end of an e-commerce website to handle 360,000 requests per minute with low latency **(<20 ms)** and error rate **(<0.1%)** by horizontally microservice to 5 AWS EC2 instances and using a least connections load balancing method with NGINX to increase fault tolerance
+- Created comprehensive and easy-to-follow software documentation that improved the ease of adding new features and fixing bugs by 26%, resulting in a more efficient development process.
 - Leveraged K6 and Loader.io to identify performance bottlenecks, then implemented caching to lower frequency of database retrieval to allow for a throughput increase of **733%**
 - Reduced query times to database from 6,000 ms to **12 ms** by using aggregator functions and indexing foreign keys
 - Mentored peer engineers on front-end development and best practices
 
 <div className="vertical-spacer"></div>
 
-### Front-End Engineer, UI Lead | Name of Application<span class="spacer"></span>Jan 2021 - Jan 2022
+### Software Engineer | Aimplus ltd.<span class="spacer"></span>Jan 2021 - Jan 2022
 
-*Remote learning management system web application* <span class="spacer"></span> JavaScript | Next.js | MUI | Node.js | Firebase | Jest
+*Remote learning management system web application* <span class="spacer"></span> JavaScript | React Native | TypeScript | Node.js | MySQL | Python
 
 - Facilitated discussions with front-end team to assess client expectations and constructed Figma wireframe
 - Directed modeling of data and API endpoints to allow for seamless frontend integration to backend
@@ -63,23 +63,25 @@ and change @REDACTED to be true
 
 <div className="vertical-spacer"></div>
 
-### Front-End Engineer, UI Lead | Name of Application<span class="spacer"></span>Jan 2021 - Jan 2022
+### Software Engineering Intern | Code Plateau<span class="spacer"></span>Jan 2021 - Jan 2022
 
-*Remote learning management system web application* <span class="spacer"></span> JavaScript | Next.js | MUI | Node.js | Firebase | Jest
+*8 months full-time immersive software engineering Bootcamp* <span class="spacer"></span> JavaScript | Python | MySQL | PHP | Laravel | Flask
 
-- Facilitated discussions with front-end team to assess client expectations and constructed Figma wireframe
-- Directed modeling of data and API endpoints to allow for seamless frontend integration to backend
-- Implemented server-side rendering with Next.js to improve page load time, achieving Lighthouse SEO score of 100
+- Teach beginner and intermediate-level courses in Python and JavaScript to groups of up to 130 students.
+- Develop course materials, including lesson plans, assignments, and exams.
+- Assist students with coding challenges and provide feedback on their work.
+- Received positive feedback from 90% of students in end-of-course evaluations.
+- Coordinated with other instructors to ensure consistency in course materials and teaching methods.
 
 <div className="vertical-spacer"></div>
 
 ### Software Engineering Intern | Gnorizon Consults <span class="spacer"></span> 2020-2021
 
-*Single page e-commerce website* <span class="spacer"></span> JavaScript | React | Express | EC2 | Jest
+*Specialize in providing technological solutions, that span software development and Internet services provision.* <span class="spacer"></span> JavaScript | React | Express | EC2 | Jest
 
-- Architected a front-end service of a ratings and reviews system to allow users to post reviews, view average ratings, search by keyword, and sort by helpfulness, relevance, date, and/or star ratings for a specific product
-- Improved web page quality by enabling text compression through Brotli and React Lazy Load, increasing Google Lighthouse performance by 132%
-- Mentored peer Intern on front-end development and best practices
+- Designed and implemented Restful API's and produced software flow diagrams for complex systems, resulting in a 15% increase in software delivery time
+- Mentored and trained team members in coding best practices, with a focus on JavaScript development
+- Designed and normalized databases to ensure minimal redundancy and efficient data storage, resulting in improved data integrity and reduced storage costs
 
 
 
@@ -96,27 +98,31 @@ and change @REDACTED to be true
 
 <div className="vertical-spacer"></div>
 
-### Front-End Engineer, UI Lead | Name of Application<span class="spacer"></span>Jan 2021 - Jan 2022
+### E-commerce Platform | Campus Store <span class="spacer"></span>Jan 2021 - Jan 2022
 
-*Remote learning management system web application* <span class="spacer"></span> JavaScript | Next.js | MUI | Node.js | Firebase | Jest
+*A Platform for Student-to-Student Buying and Selling* <span class="spacer"></span> TypeScript | Express | MySQL | React-Native | Firebase | Jest
 
-- Facilitated discussions with front-end team to assess client expectations and constructed Figma wireframe
+- Conceptualized and developed Campus Store, an e-commerce platform designed to help students monetize their unused property or services, using React Native for the mobile application and Express for the backend web framework.
+- Conducted user testing to identify and resolve any usability issues or pain points, ensuring that the platform is intuitive and user-friendly.
+- Integrated social media sharing functionality, allowing users to easily share products and services they are interested in with their followers and friends
+- Incorporated user feedback to iteratively improve the user experience and maintain a high level of customer satisfaction, achieving a 95% satisfaction rating among users.
+- Enabled in-app messaging and notifications to facilitate communication between buyers and sellers, making it easier for them to arrange transactions and complete sales
+- Created and maintained a comprehensive user manual and documentation to help users navigate the platform and understand its features and functionality.
+
+
+<div className="vertical-spacer"></div>
+
+### Rate & Discover Platform | RetMe<span class="spacer"></span>Jan 2021 - Jan 2022
+
+*Rate & Discover nearby services* <span class="spacer"></span> TypeScript | Go | MySQL | Node.js | Firebase | Jest
+
+- This is a platform where users can rate services they've received and discover nearby services of interest to them, making it easier to find high-quality service providers in their area.
 - Directed modeling of data and API endpoints to allow for seamless frontend integration to backend
 - Implemented server-side rendering with Next.js to improve page load time, achieving Lighthouse SEO score of 100
 
 <div className="vertical-spacer"></div>
 
-### Front-End Engineer, UI Lead | Name of Application<span class="spacer"></span>Jan 2021 - Jan 2022
-
-*Remote learning management system web application* <span class="spacer"></span> JavaScript | Next.js | MUI | Node.js | Firebase | Jest
-
-- Facilitated discussions with front-end team to assess client expectations and constructed Figma wireframe
-- Directed modeling of data and API endpoints to allow for seamless frontend integration to backend
-- Implemented server-side rendering with Next.js to improve page load time, achieving Lighthouse SEO score of 100
-
-<div className="vertical-spacer"></div>
-
-### Front-End Software Engineer | Name of Application <span class="spacer"></span> 2020-2021
+### A COMP | Name of Application <span class="spacer"></span> 2020-2021
 
 *Single page e-commerce website* <span class="spacer"></span> JavaScript | React | Express | EC2 | Jest
 
@@ -129,7 +135,14 @@ and change @REDACTED to be true
 <!-- Move this section above Technical Skills if you're a student/new grad -->
 ## Certifications & Award
 
-**University of XXX** - Master of Science, Computer Science, GPA (only >= 3.7)<span class="spacer"></span>2023
+### Software Engineering Bootcamp | Code Plateau <span class="spacer"></span> 2020-2021
 
-**University of XXX** - Bachelors of Science, Computer Science, GPA (only >= 3.7)<span class="spacer"></span>2022
+*8 months full-time immersive software engineering Bootcamp* <span class="spacer"></span> JavaScript | React | Express | EC2 | Jest
+
+- Completed an intensive 8-month program in software engineering, covering topics such as algorithms, data structures, software architecture, and web development.
+- Completed multiple real-world projects, including a full-stack web application and a data analysis tool, demonstrating proficiency in software engineering concepts and tools.
+- Won a special recognition award for passion and willingness to learn, going the extra mile to take on challenging projects, contribute to the learning community, and demonstrate outstanding initiative and work ethic
+- Was among the top 3 students in the program, recognized for exceptional academic performance and mastery of software engineering concepts.
+
+<!-- **University of XXX** - Bachelors of Science, Computer Science, GPA (only >= 3.7)<span class="spacer"></span>2022 -->
 
