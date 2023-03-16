@@ -30,42 +30,36 @@ and change @REDACTED to be true
 
 ## Technical Skills
 
-**Front End** | React, React-Native, Javascript, TypeScript, CSS
+**Programming** | C, C++, x86 Assembly, Python, Go, PHP, TypeScript, JavaScript
 
-**Back End** | C, C++, Go, NodeJS, PostgreSQL, MongoDB, MySQL
+**Database** |  PostgreSQL, MongoDB, MySQL
 
-**Testing/Deployment** | Jest, Mocha, Chai, AWS:EC2, AWS:ECS, Terraform, JUnit
+**Other Technology** | React, React-Native, NodeJS , CSS, HTML, Express, Flask
 
-**Developer Tools** | Docker, Git, Agile Methodology, TDD
+**Testing/Deployment** | Postman, Mocha, Selenium, AWS:EC2, AWS:ECS, Terraform
+
+
+**Developer Tools** | Docker, Git, Agile Methodology, TDD, Kubernetes
 
 <div className="vertical-spacer"></div>
 
 ## Experience
 
-### Software Engineer | Plateau State Information Technology Development Agency (PICTDA) <span class="spacer"></span>Jan 2022 - Present
+### Software Engineer | Plateau State Information Technology Development Agency (PICTDA) <span class="spacer"></span>Nov 2021 - Present
 
 *Backend redesign for reviews module of legacy e-commerce microservice*<span class="spacer"></span>PHP | TypeScript | Angular | PostgreSQL | EC2
 
 - Created comprehensive and easy-to-follow software documentation that improved the ease of adding new features and fixing bugs by 26%, resulting in a more efficient development process.
-- Leveraged K6 and Loader.io to identify performance bottlenecks, then implemented caching to lower frequency of database retrieval to allow for a throughput increase of **733%**
-- Reduced query times to database from 6,000 ms to **12 ms** by using aggregator functions and indexing foreign keys
-- Mentored peer engineers on front-end development and best practices
+- Participated in Agile software development processes, including sprint planning, daily stand-ups, and retrospectives.
+- Conducted code reviews and wrote unit tests to ensure code quality and consistency.
+
 
 <div className="vertical-spacer"></div>
 
-### Software Engineer | Aimplus ltd.<span class="spacer"></span>Jan 2021 - Jan 2022
 
-*Remote learning management system web application* <span class="spacer"></span> JavaScript | React Native | TypeScript | Node.js | MySQL | Python
+### Software Engineering Intern | Code Plateau<span class="spacer"></span> 2020 - 2021
 
-- Facilitated discussions with front-end team to assess client expectations and constructed Figma wireframe
-- Directed modeling of data and API endpoints to allow for seamless frontend integration to backend
-- Implemented server-side rendering with Next.js to improve page load time, achieving Lighthouse SEO score of 100
-
-<div className="vertical-spacer"></div>
-
-### Software Engineering Intern | Code Plateau<span class="spacer"></span>Jan 2021 - Jan 2022
-
-*8 months full-time immersive software engineering Bootcamp* <span class="spacer"></span> JavaScript | Python | MySQL | PHP | Laravel | Flask
+*8 months full-time immersive software engineering Bootcamp* <span class="spacer"></span> JavaScript | Python | MySQL | PHP | Laravel |  Docker 
 
 - Teach beginner and intermediate-level courses in Python and JavaScript to groups of up to 130 students.
 - Develop course materials, including lesson plans, assignments, and exams.
@@ -75,9 +69,9 @@ and change @REDACTED to be true
 
 <div className="vertical-spacer"></div>
 
-### Software Engineering Intern | Gnorizon Consults <span class="spacer"></span> 2020-2021
+### Remote Software Engineering Intern | Gnorizon Consults <span class="spacer"></span> 2020-2021
 
-*Specialize in providing technological solutions, that span software development and Internet services provision.* <span class="spacer"></span> JavaScript | React | Express | EC2 | Jest
+*Specialize in providing technological solutions, that span software development and Internet services provision.* <span class="spacer"></span> JavaScript | React | Express | PHP | Python
 
 - Designed and implemented Restful API's and produced software flow diagrams for complex systems, resulting in a 15% increase in software delivery time
 - Mentored and trained team members in coding best practices, with a focus on JavaScript development
@@ -87,7 +81,8 @@ and change @REDACTED to be true
 
 ## Personal Projects
 
-### Build a Python WebFramework | Taminus <span class="spacer"></span>Jan 2022 - Present
+### Build a Python WebFramework | Taminus 
+<!-- <span class="spacer"></span>Jan 2022 - Present -->
 
 *A Flexible and Scalable Web Framework with ASGI and WSGI Support*<span class="spacer"></span>Javascript | Python | Express | PostgreSQL | EC2
 
@@ -98,9 +93,10 @@ and change @REDACTED to be true
 
 <div className="vertical-spacer"></div>
 
-### E-commerce Platform | Campus Store <span class="spacer"></span>Jan 2021 - Jan 2022
+### E-commerce Platform | Campus Store <span class="spacer">
+<!-- </span>Jan 2021 - Jan 2022 -->
 
-*A Platform for Student-to-Student Buying and Selling* <span class="spacer"></span> TypeScript | Express | MySQL | React-Native | Firebase | Jest
+*A Platform for Student-to-Student Buying and Selling* <span class="spacer"></span> TypeScript | Express | MySQL | React-Native | Postman | Mocha
 
 - Conceptualized and developed Campus Store, an e-commerce platform designed to help students monetize their unused property or services, using React Native for the mobile application and Express for the backend web framework.
 - Conducted user testing to identify and resolve any usability issues or pain points, ensuring that the platform is intuitive and user-friendly.
@@ -112,23 +108,26 @@ and change @REDACTED to be true
 
 <div className="vertical-spacer"></div>
 
-### Rate & Discover Platform | RetMe<span class="spacer"></span>Jan 2021 - Jan 2022
+### Rate & Discover Platform | RetMe
+<!-- <span class="spacer"></span>Jan 2021 - Jan 2022 -->
 
-*Rate & Discover nearby services* <span class="spacer"></span> TypeScript | Go | MySQL | Node.js | Firebase | Jest
+*Rate & Discover nearby services* <span class="spacer"></span> TypeScript | Go | MySQL | Node.js | Mocha | Postman
 
-- This is a platform where users can rate services they've received and discover nearby services of interest to them, making it easier to find high-quality service providers in their area.
-- Directed modeling of data and API endpoints to allow for seamless frontend integration to backend
-- Implemented server-side rendering with Next.js to improve page load time, achieving Lighthouse SEO score of 100
+- The platform helps users discover new services and makes it easier to locate high-quality service providers in their area.
+- Implemented separate microservices for recommendation, verification, booking, rewards, social, and augmented reality features, improving scalability, resilience, and performance.
+- Supported multiple languages using a separate translation service built with Python and the Google Translate API.
 
 <div className="vertical-spacer"></div>
 
-### A COMP | Name of Application <span class="spacer"></span> 2020-2021
+### Operating System Kernel | Hyperion
+<!-- <span class="spacer"></span> 2020-2021 -->
 
-*Single page e-commerce website* <span class="spacer"></span> JavaScript | React | Express | EC2 | Jest
+*An operating system kernel using C and assembly language* <span class="spacer"></span> C | Assembly | Git
 
-- Architected a front-end service of a ratings and reviews system to allow users to post reviews, view average ratings, search by keyword, and sort by helpfulness, relevance, date, and/or star ratings for a specific product
-- Improved web page quality by enabling text compression through Brotli and React Lazy Load, increasing Google Lighthouse performance by 132%
-- Tracked user interactions throughout the application with React higher-order components to reuse component logic
+- Developed an operating system kernel using C and assembly language
+- Implemented memory management, process scheduling, and device drivers
+- Conducted extensive testing and debugging to ensure kernel stability and performance
+- Documented the project's architecture, design decisions, and code structure in detail.
 
 <div className="vertical-spacer"></div>
 
@@ -137,12 +136,28 @@ and change @REDACTED to be true
 
 ### Software Engineering Bootcamp | Code Plateau <span class="spacer"></span> 2020-2021
 
-*8 months full-time immersive software engineering Bootcamp* <span class="spacer"></span> JavaScript | React | Express | EC2 | Jest
+*8 months full-time immersive software engineering Bootcamp* <span class="spacer"></span> JavaScript | Python | MySQL | PHP | Laravel |  Docker 
 
 - Completed an intensive 8-month program in software engineering, covering topics such as algorithms, data structures, software architecture, and web development.
 - Completed multiple real-world projects, including a full-stack web application and a data analysis tool, demonstrating proficiency in software engineering concepts and tools.
 - Won a special recognition award for passion and willingness to learn, going the extra mile to take on challenging projects, contribute to the learning community, and demonstrate outstanding initiative and work ethic
 - Was among the top 3 students in the program, recognized for exceptional academic performance and mastery of software engineering concepts.
 
-<!-- **University of XXX** - Bachelors of Science, Computer Science, GPA (only >= 3.7)<span class="spacer"></span>2022 -->
+### HackJos 2019 | Hackathon <span class="spacer"></span> 
+
+*Participated in a 24-hour hackathon* <span class="spacer"></span>  Python  | Git
+
+- Led a team of two and developed a Python app that used AI to detect bad roads, resulting in a second-place finish in the hackathon.
+- Created and implemented the solution within 24 hours, demonstrating strong time management and problem-solving skills
+- Collaborated with team members to design, develop and deploy the app, showcasing strong teamwork and communication skills
+
+
+
+
+
+
+
+
+
+<!-- **HackJos 2019** - Bachelors of Science, Computer Science, GPA (only >= 3.7)<span class="spacer"></span>2019 -->
 
