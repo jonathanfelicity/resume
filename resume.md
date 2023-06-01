@@ -59,7 +59,7 @@ and change @REDACTED to be true
 
 ### Software Engineering Intern | Code Plateau<span class="spacer"></span> 2020 - 2021
 
-*8 months full-time immersive software engineering Bootcamp* <span class="spacer"></span> JavaScript | Python | MySQL | PHP | Laravel |  Docker 
+*Completed a thrilling three(3)-month software engineering internship* <span class="spacer"></span> JavaScript | Python | MySQL | PHP | Laravel |  Docker 
 
 - Teach beginner and intermediate-level courses in Python and JavaScript to groups of up to 130 students.
 - Develop course materials, including lesson plans, assignments, and exams.
@@ -84,7 +84,7 @@ and change @REDACTED to be true
 ### Build a Python WebFramework | Taminus 
 <!-- <span class="spacer"></span>Jan 2022 - Present -->
 
-*A Flexible and Scalable Web Framework with ASGI and WSGI Support*<span class="spacer"></span>Javascript | Python | Express | PostgreSQL | EC2
+*A Flexible and Scalable Web Framework with ASGI and WSGI Support*<span class="spacer"></span> Python | Git | Github Actions 
 
 - Designed and developed a web framework that supports both ASGI and WSGI protocols, providing versatility for different use cases.
 - Adopted a modular architecture and leveraged Git for version control, resulting in efficient code management and collaboration among team members.
@@ -134,16 +134,16 @@ and change @REDACTED to be true
 <!-- Move this section above Technical Skills if you're a student/new grad -->
 ## Certifications & Award
 
-### Software Engineering Bootcamp | Code Plateau <span class="spacer"></span> 2020-2021
+### Software Engineering Bootcamp | Code Plateau <span class="spacer"></span> 2020
 
-*8 months full-time immersive software engineering Bootcamp* <span class="spacer"></span> JavaScript | Python | MySQL | PHP | Laravel |  Docker 
+*Completed eight(8) months full-time immersive software engineering Bootcamp* <span class="spacer"></span> JavaScript | Python | MySQL | PHP | Laravel |  Docker 
 
 - Completed an intensive 8-month program in software engineering, covering topics such as algorithms, data structures, software architecture, and web development.
 - Completed multiple real-world projects, including a full-stack web application and a data analysis tool, demonstrating proficiency in software engineering concepts and tools.
 - Won a special recognition award for passion and willingness to learn, going the extra mile to take on challenging projects, contribute to the learning community, and demonstrate outstanding initiative and work ethic
 - Was among the top 3 students in the program, recognized for exceptional academic performance and mastery of software engineering concepts.
 
-### HackJos 2019 | Hackathon <span class="spacer"></span> 
+### HackJos 2019 | Hackathon <span class="spacer"></span> 2019
 
 *Participated in a 24-hour hackathon* <span class="spacer"></span>  Python  | Git
 
